@@ -4,9 +4,8 @@ export const towns = [
   { name: 'Lynn Haven', slug: 'lynn-haven', businesses: 0 },
   { name: 'Callaway', slug: 'callaway', businesses: 0 },
   { name: 'Springfield', slug: 'springfield', businesses: 0 },
-  { name: 'Mexico Beach', slug: 'mexico-beach', businesses: 0 },
+  { name: 'Parker', slug: 'parker', businesses: 0 },
 ];
-
 export const categories = [
   { name: 'Restaurants & Dining', slug: 'restaurants-dining', icon: '🍽️', count: 0 },
   { name: 'Shopping & Retail', slug: 'shopping-retail', icon: '🛍️', count: 0 },
@@ -27,7 +26,6 @@ export const categories = [
   { name: 'Accommodations', slug: 'accommodations', icon: '🏨', count: 0 },
   { name: 'Appliances & Rentals', slug: 'appliances-rentals', icon: '🔌', count: 0 },
 ];
-
 export const navLinks = [
   { label: 'Home', href: '/' },
   { label: 'Listings', href: '/listings/' },
